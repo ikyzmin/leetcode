@@ -1,4 +1,4 @@
 /target
 /leetcode.iml
-/src/TwoSum/target/
-/src/Palindrome/target/§
+target/
+.idea
